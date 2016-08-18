@@ -8,4 +8,5 @@ dist/
 release/
 *.swp
 .DS_Store
+/target
 
